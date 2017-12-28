@@ -8,7 +8,6 @@
 create-react-app redux-cart
 ```
 
-
 fresh-cra---
 
 运行 npm start 启动一下。
@@ -20,9 +19,7 @@ fresh-cra---
 
 按照[展示组件和容器组件](http://haoduoshipin.com/videos/236) 的思路，把项目结构调整一下。
 
-
 refactor---
-
 
 删除整个的 src 文件夹，重新创建 src/index.js 。里面导入 ReactDOM 显示出 App 组件。
 
