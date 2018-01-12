@@ -76,13 +76,8 @@
 - [蚂蚁设计](./faq/ant.md)
 - [redux 最简应用方案](./faq/redux.md)
 - [十月一作业](./faq/101.md)
-- [Vue 优势何在？](./faq/vue-why.md)
-- [Vue 的 Hello World](./faq/vue-hello.md)
-- [Vue 的一个组件长什么样？](./faq/vue-comp.md)
-- [Vue 的 State 的使用](./faq/vue-state.md)
-- [Vue 处理用户输入](./faq/input.md)
-- [计算属性](./faq/computed.md)
-- [Vue 组件的 props 属性传入](./faq/vue-props.md)
+
+
 - [Vue 路由器 vue-router](./faq/vue-router.md)
 - [把数据放进 Vuex 的 Store ](./faq/vuex-store.md)
 - [修改 store 中的数据](./faq/mutation.md)
